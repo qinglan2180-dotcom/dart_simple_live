@@ -102,3 +102,5 @@ flutter:
     - assets/images/
     - assets/icons/
     - assets/lotties/
+dependency_overrides:
+  intl: 0.19.0
